@@ -1,0 +1,6 @@
+id=MountSDInEmulated0
+name=MountSDInEmulated0
+version=0.0.1
+versionCode=3
+author=wchen342
+description=Mount SD card to an additional mount point in Internal Storage on boot
